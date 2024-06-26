@@ -1,0 +1,36 @@
+{
+    "name": "me-ruhin/timezonify",
+    "description": "PHP package to convert date/time strings or timestamps to a custom timezone",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Md Ruhin Mia",
+            "email": "ruhin.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "DateConverter\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "keywords": [
+        "timezone",
+        "converter",
+        "date",
+        "time",
+        "timestamp",
+        "datetime",
+        "timezone-converter",
+        "timezonify",
+        "date-time-converter"
+    ],
+    "homepage": "https://github.com/me-ruhin/timezonify",
+    "support": {
+        "issues": "https://github.com/me-ruhin/timezonify/issues"
+    }
+}
