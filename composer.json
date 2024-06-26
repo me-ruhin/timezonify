@@ -1,0 +1,15 @@
+{
+    "name": "mdruhinmia/date-converter",
+    "autoload": {
+        "psr-4": {
+            "Mdruhinmia\\DateConverter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Md Ruhin Mia",
+            "email": "ruhinm3@gmail.com"
+        }
+    ],
+    "require": {}
+}
